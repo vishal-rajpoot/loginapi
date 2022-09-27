@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/loginapi/static/css/main.56ba1e42.css",
+    "main.js": "/loginapi/static/js/main.f53133ef.js",
+    "index.html": "/loginapi/index.html",
+    "main.56ba1e42.css.map": "/loginapi/static/css/main.56ba1e42.css.map",
+    "main.f53133ef.js.map": "/loginapi/static/js/main.f53133ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56ba1e42.css",
+    "static/js/main.f53133ef.js"
+  ]
+}
